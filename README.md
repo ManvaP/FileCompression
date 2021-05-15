@@ -11,6 +11,7 @@ http://ec2-18-221-42-222.us-east-2.compute.amazonaws.com:8080/cs336test/
 Apportions Credit:
 Login Page -> Manav Patel 
 User Functionality -> Kevin Patel and Varun Krishnan	
+	
 	Let people search for flights - Varun Krishnan
 		One way - Varun Krishnan
 		Round-trip - Varun Krishnan
@@ -24,6 +25,7 @@ User Functionality -> Kevin Patel and Varun Krishnan
 	View all the upcoming reservations with their details - Kevin Patel
 	
 Admin/Customer Representative -> Tanuj Desai and Manav Patel
+	
 	Admin:
 		Add, Edit, and Delete information for a customer representative or customer - Tanuj Desai
 		Obtain a sales report for a particular month - Incomplete
